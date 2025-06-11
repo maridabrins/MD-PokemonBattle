@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(130deg, #0f2027, #3b197a, #320d41);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  padding: 20px;
+  max-width: 500px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.card h1{
+    color: #d1ff02;
+    margin-bottom: 20px;
+}
+
+.cards-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+    gap: 10px
+    
+}
+
+.cards-content h3{
+    color: #d1ff02;
+}
+
+.info{
+    background-color: #1c0b3b;
+    padding: 40px 40px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px #1c1230;
+}
+.info h2{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.info p{
+    font-size: 13px;
+}
+
+.btn-batalha{
+    background-color: #fa3131;
+    border: 1.5px solid #e97b7b;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+.btn-batalha:hover{
+    cursor: pointer;
+}
+
+.pokemon_image{
+    width: 60px;
+    height: 60px;
+}
