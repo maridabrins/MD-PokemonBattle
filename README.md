@@ -61,7 +61,7 @@ Pokemon Battle é um projeto desenvolvido com o objetivo de aplicar e consolidar
 ### Ou acesse por aqui
 Você também pode acessar clicando nesse link do Github Pages:
 
-- [Ifinance](https://maridabrins.github.io/MD-Ifinance/)
+- [PokemonBattle](https://maridabrins.github.io/MD-PokemonBattle/)
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
